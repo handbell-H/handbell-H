@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @handbell-H
-- 👀 데이터 시각화에 조금 관심이..
-- 🌱 도시, 국토에 조금 더 관심이..
-- 💞️ 다른 데이터 분석도 배워 보고 싶습니다.
+- 👀 cladue 코드로 각종 SW와 agent를 만들고 있습니다.....
+- 🌱 요즘 모든 분야에 다 관심이 있네요...
+- 💞️ 열심히 하겠습니다...
 
 <!---
 handbell-H/handbell-H is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
