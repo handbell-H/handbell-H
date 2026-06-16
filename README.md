@@ -1,7 +1,17 @@
-- 👋 Hi, I’m @handbell-H
-- 👀 cladue 코드로 각종 SW와 agent를 만들고 있습니다.....
+### 👋 Hi, I’m @handbell-H
+
+- 👀 Claude 코드로 각종 SW와 agent를 만들고 있습니다.....
 - 🌱 요즘 모든 분야에 다 관심이 있네요...
 - 💞️ 열심히 하겠습니다...
+
+---
+
+### 🔗 Portfolio
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=netlify&logoColor=white)](https://glittery-dodol-ee1182.netlify.app/)
+
+📄 **[손종혁 포트폴리오 — AX Engineer](https://glittery-dodol-ee1182.netlify.app/)**
+데이터 파이프라인 · 공간정보(GIS) · LLM Agent — 프로젝트 8개, 경력 · 자격 · 논문 정리
 
 <!---
 handbell-H/handbell-H is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
