@@ -2,9 +2,6 @@
 
 - 👀 데이터 분석을 열심히하고 있습니다. SW 개발도 하고 있네요... ai agent도 만들어야하네요..
 - 🌱 요즘 모든 분야에 다 관심이 있네요...
-- 💞️ 열심히 하겠습니다...
-
-데이터 파이프라인 · 공간정보(GIS) · LLM Agent — 프로젝트 8개, 경력 · 자격 · 논문 정리
 
 <!---
 handbell-H/handbell-H is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
